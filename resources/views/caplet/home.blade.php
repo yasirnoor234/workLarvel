@@ -1,0 +1,9 @@
+@extends('caplet.layouts.app')
+		
+		
+		
+		
+		
+		
+		
+		
